@@ -1,0 +1,7 @@
+Black terminal node at position (2,2) with width 2
+Black terminal node at position (4,1) with width 1
+Black terminal node at position (5,1) with width 1
+Black terminal node at position (4,2) with width 2
+Black terminal node at position (4,4) with width 2
+Black terminal node at position (6,4) with width 1
+
